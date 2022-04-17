@@ -1,7 +1,8 @@
 # javascript-1
 my_shop
 
-window.addEventListener(type:'DOMContentLoaded',listener: function() {
+window.addEventListener(type:'DOMContentLoaded',listener: 
+function() {
   let products = document.querySelectorAll(selectors:'.product'),
       buttons = document.querySelectorAll(selectors:'button'),
       openBtn = document.querySelector(selectors:'.open');
